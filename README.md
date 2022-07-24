@@ -1,4 +1,4 @@
-###  Olá meu nome é Jackeline, sou uma publicitária na área de tech. 👋
+###  Olá! meu nome é Jackeline, sou uma publicitária na área de tech. 👋
 </p>
 
 
