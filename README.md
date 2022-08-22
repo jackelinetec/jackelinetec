@@ -1,9 +1,8 @@
-###  Olá! Pode me chamar de Jack, sou uma publicitária na área de tech. 👋
-
-</p>
+###  Olá! Pode me chamar de Jack. Sou uma publicitária na área de tech. 👋
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyjuly&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=5f585e&hide_border=true&locale=en&layout =compact" alt="emilyjuly" /></p>
+
+
 
 <h3>Connect with me:</h3>
     <div>
